@@ -17,3 +17,7 @@ This system will increased demand for health-conscious applications, and it is a
 AI-driven nutrition recommendations are gaining traction.
 
 Integration with fitness and medical systems makes it a viable solution.
+
+It is an open-source tool and it that minimizes costs by reducing infrastructure investment and allows for a cost-effective growth.
+
+
