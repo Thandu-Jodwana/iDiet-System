@@ -15,3 +15,10 @@ Users will be able to register through email or social media, create personalize
 Sure! Please provide the text you'd like me to paraphrase. Non-Functional Specifications
 
 The system should be easy to use, adhering to WCAG 2.1 AA accessibility guidelines and offering an intuitive interface. It should be compatible with Windows, Linux, and cloud services, in addition to mobile applications for Android and iOS
+
+
+
+
+
+
+This was a fun exercise!
