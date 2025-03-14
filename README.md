@@ -15,5 +15,5 @@ This system provides nutriotional knowledge to users.
 
 - 
 ## 📄 Documentation
-- [Functional Requirements](Functional-Requirements.md)
+- [Functional Requirements](Functional Requirements.md)
 - [Architecture Design](ARCHITECTURE.md)
