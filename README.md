@@ -12,3 +12,8 @@ This system provides nutriotional knowledge to users.
 - [Reflection](REFLECTION.md)
 - [Specification](Specification.md)
 - [Test Cases](TEST-CASES.md)
+
+- 
+## 📄 Documentation
+- [Functional Requirements](Functional-Requirements.md)
+- [Architecture Design](ARCHITECTURE.md)
