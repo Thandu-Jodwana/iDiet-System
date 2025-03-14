@@ -7,13 +7,8 @@ This system provides nutriotional knowledge to users.
 ## 📄 Documentation
 - [System Specification](SPECIFICATION.md)
 - [Architecture Design](ARCHITECTURE.md)
-- [ARCHITECTURE](ARCHITECTURE.md)
-- [Functional Requirements](FunctionalRequirements.md)
-- [Non-Function Requirements](Non-FunctionalRequirements.md)
-- [Documentation](Documentation&Clarity.md)
-- [SPECIFICATIONS](SPECIFICATIONS.md)
-- [Stakeholder-Analysis](Stakeholder-Analysis.md)
-- [USE-CASES DIAGRAM](USE-CASESDIAGRAM.md)
-- [USE-CASE SPECIFICATION](USE-CASESSPECIFICATION.md)
-- [TEST-CASES](TEST-CASES.md)
-- [REFLECTION](REFLECTIONS.md)
+
+## 📄 Documentation
+- [Reflection](REFLECTION.md)
+- [Specification](Specification.md)
+- [Test Cases](TEST-CASES.md)
