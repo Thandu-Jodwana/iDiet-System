@@ -4,9 +4,9 @@
 ## Use Case 1:
 ### Register User
 
- Actor:  User
+ **Actor:**  User
  
- Preconditions: None
+ **Preconditions:** None
  
  Postconditions: User account is createdBasic Flow:
 
@@ -23,13 +23,13 @@ Invalid input → Display error message
 ## Use Case 2:
 ### Log In
 
-Actor: Registered User
+**Actor:** Registered User
 
-Preconditions: User must be registered
+**Preconditions**: User must be registered in order to log in.
 
-Postconditions: User is logged inBasic Flow:
+**Postconditions**: User is logged inBasic Flow:
 
-User enters credentials
+User enters credentials (username & password)
 
 System verifies credentials
 
@@ -37,16 +37,16 @@ User is granted access
 
 #### Alternative Flows:
 
-Invalid credentials → Display error
+Invalid credentials → Displays an error
 
 ## Use Case 3:
 ### Input Dietary Preferences
 
-Actor: Registered User
+**Actor:** Registered User
 
-Preconditions: User must be logged in
+**Preconditions**: User must be logged in to access this option
 
-Postconditions: Preferences are storedBasic Flow:
+**Postconditions**: Preferences are storedBasic Flow:
 
 User selects dietary restrictions
 
@@ -61,13 +61,13 @@ Missing input → Display prompt
 ## Use Case 4:
 ### Generate Meal Plan
 
-Actor: AI Engine
+**Actor:** AI Engine
 
-Preconditions: User must have input preferences
+**Preconditions:** User must have input preferences
 
 Postconditions: Meal plan is generated
 
-Basic Flow:
+**Basic Flow:**
 
 System analyzes user data
 
@@ -78,7 +78,11 @@ Meal plan is displayed
 ## Use Case 5: 
 ### Track Nutritional Intake
 
-Actor: Registered UserPreconditions: User must log mealsPostconditions: System updates nutritional dataBasic Flow:
+**Actor:** Registered User
+
+**Preconditions:** User must log meals
+
+Postconditions: System updates nutritional dataBasic Flow:
 
 User logs meal
 
@@ -89,11 +93,11 @@ Data is stored
 ## Use Case 6: 
 ### Provide AI Recommendations
 
-Actor: AI Engine
+**Actor:** AI Engine
 
-Preconditions: User must have tracked meals
+**Preconditions:** User must have tracked meals
 
-Postconditions: Personalized recommendations are providedBasic Flow:
+**Postconditions:** Personalized recommendations are providedBasic Flow:
 
 System analyzes user diet
 
@@ -104,9 +108,9 @@ User receives suggestions
 ## Use Case 7: 
 ### Update User Profile
 
-Actor: Registered User
+**Actor:** Registered User
 
-Preconditions: User must be logged in
+**Preconditions:** User must be logged in
 
 Postconditions: Profile information is updated
 
@@ -119,11 +123,11 @@ System validates and saves data
 ## Use Case 8: 
 ### Export Meal Plan
 
-Actor: Registered User
+**Actor:** Registered User
 
-Preconditions: User must have a meal plan
+**Preconditions:** User must have a meal plan
 
-Postconditions: File is generated for download
+**Postconditions:** File is generated for download
 
 #### Basic Flow:
 
