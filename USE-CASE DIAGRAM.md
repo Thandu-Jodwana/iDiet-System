@@ -30,6 +30,8 @@
 **Security & Compliance:** Regulatory bodies ensure data security and AI compliance.
 
 
+# This diagram represents the use case of the iDiet System
+
 
 
 ```mermaid
