@@ -8,7 +8,7 @@ These is a Table representing the results of Funtional Tests and Non-Functional 
 | TC-002 | FR-002 | User logs in | Enter credentials, click login | User is logged in | TBC | TBC |
 | TC-003 | FR-003 | Input dietary preferences | Enter preferences, submit | Preferences saved | TBC | TBC |
 | TC-004 | FR-004 | Generate meal plan | Click "Generate Plan" | Personalized meal plan displayed | TBC | TBC |
-| TC-005 | FR-005 | Track nutritional intake | Log meal | Nutritional data updated | TBC | |
+| TC-005 | FR-005 | Track nutritional intake | Log meal | Nutritional data updated | TBC | TBC |
 | TC-006 | FR-006 | Provide AI recommendations | AI analyzes diet | Personalized suggestions displayed | TBC | TBC |
 | TC-007 | FR-007 | Update user profile | Edit and save profile | Profile updated successfully | TBC |  TBC|
 | TC-008 | FR-008 | Export meal plan | Click "Export" | Downloadable file generated | TBC | TBC |
