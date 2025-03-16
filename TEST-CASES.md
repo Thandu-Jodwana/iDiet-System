@@ -4,14 +4,14 @@ These is a Table representing the results of Funtional Tests and Non-Functional 
 ## Functional Tests
 | Test Case ID | Requirement ID | Description | Steps | Expected Result | Actual Result | Status |
 |-------------|---------------|-------------|-------|----------------|---------------|--------|
-| TC-001 | FR-001 | Register a new user | Enter details, submit form | User account is created | | |
-| TC-002 | FR-002 | User logs in | Enter credentials, click login | User is logged in | | |
-| TC-003 | FR-003 | Input dietary preferences | Enter preferences, submit | Preferences saved | | |
-| TC-004 | FR-004 | Generate meal plan | Click "Generate Plan" | Personalized meal plan displayed | | |
-| TC-005 | FR-005 | Track nutritional intake | Log meal | Nutritional data updated | | |
-| TC-006 | FR-006 | Provide AI recommendations | AI analyzes diet | Personalized suggestions displayed | | |
-| TC-007 | FR-007 | Update user profile | Edit and save profile | Profile updated successfully | | |
-| TC-008 | FR-008 | Export meal plan | Click "Export" | Downloadable file generated | | |
+| TC-001 | FR-001 | Register a new user | Enter details, submit form | User account is created | TBC | TBC |
+| TC-002 | FR-002 | User logs in | Enter credentials, click login | User is logged in | TBC | TBC |
+| TC-003 | FR-003 | Input dietary preferences | Enter preferences, submit | Preferences saved | TBC | TBC |
+| TC-004 | FR-004 | Generate meal plan | Click "Generate Plan" | Personalized meal plan displayed | TBC | TBC |
+| TC-005 | FR-005 | Track nutritional intake | Log meal | Nutritional data updated | TBC | |
+| TC-006 | FR-006 | Provide AI recommendations | AI analyzes diet | Personalized suggestions displayed | TBC | TBC |
+| TC-007 | FR-007 | Update user profile | Edit and save profile | Profile updated successfully | TBC |  TBC|
+| TC-008 | FR-008 | Export meal plan | Click "Export" | Downloadable file generated | TBC | TBC |
 
 ## Non-Functional Tests
 | Test Case ID | Description | Steps | Expected Result |
