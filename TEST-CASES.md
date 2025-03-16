@@ -1,5 +1,5 @@
 # Test Cases:
-This
+These is a Table representing the results of Funtional Tests and Non-Functional Tests results.
 
 ## Functional Tests
 | Test Case ID | Requirement ID | Description | Steps | Expected Result | Actual Result | Status |
@@ -20,6 +20,10 @@ This
 | NFT-002 | Security Test | Attempt unauthorized access | System denies access |
 
 ---
+
+
+
+The Actual Results and Status will be available after deployment of the system, and after the final tests has been conducted.
 
 
 
