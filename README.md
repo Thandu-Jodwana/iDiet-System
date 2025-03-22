@@ -17,4 +17,4 @@ This system provides nutriotional knowledge to users.
 - [USER STORY CREATION](USER-STORY-CREATION.md)
 - [PRODUCT BACKLOG CREATION](PRODUCT-BACKLOG-CREATION.md)
 - [SPRINT PLANNING](SPRINT-PLANNING.md)
-- [Reflection/Documentation](Reflection/Documentation.md)
+- [Reflection&Documentation](Reflection&Documentation.md)
