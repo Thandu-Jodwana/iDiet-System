@@ -19,8 +19,8 @@
 
 ### Justification for Prioritization
 - **Must-have:** These stories align with stakeholder success metrics for usability, security, and functionality.
-- **Should-have:** Features that improve user experience but are not critical for initial launch.
-- **Could-have:** Useful enhancements that provide added value but are not necessary for MVP.
-- **Won’t-have:** Features planned for later releases to keep the scope manageable.
+- **Should-have:** Theses are the features that improves user experience but are not critical for initial launch.
+- **Could-have:** Theses are useful improvements that provides added value but are not necessary for MVP.
+- **Won’t-have:** These Features are planned for later releases to keep the scope of iDiet system development manageable.
 
 
