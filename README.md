@@ -8,12 +8,12 @@ This system provides nutriotional knowledge to users.
 - [System Specification](SPECIFICATION.md)
 - [Architecture Design](ARCHITECTURE.md)
 
-## 📄 Documentation
+## 📄 Use Case Modelling
 - [Reflection](REFLECTION.md)
 - [Specification](Specification.md)
 - [Test Cases](TEST-CASES.md)
 
-## 📄 Documentation
+## 📄 Agile Development
 - [USER STORY CREATION](USER-STORY-CREATION.md)
 - [PRODUCT BACKLOG CREATION](PRODUCT-BACKLOG-CREATION.md)
 - [SPRINT PLANNING](SPRINT-PLANNING.md)
