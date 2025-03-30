@@ -25,3 +25,17 @@ This system provides nutriotional knowledge to users.
 - [Reflection](reflection.md)
 
  ![Image Alt](https://github.com/Thandu-Jodwana/iDiet-System/blob/dcf1bae3f34f42bffaad665552d2be23575b28b3/Screenshot%202025-03-30%20231521.png)
+
+### Justification of Customization Choices:
+-I Added a "Testing" column to align with QA requirements and ensure system reliability before deployment.
+
+-I Included a "Blocked" column to track dependencies and prevent development bottlenecks.
+
+-I will later introduce a "Review" column to improve code quality and facilitate peer evaluations.
+
+-Mapped user stories to issues for better traceability and project structure.
+
+-Task assignments ensure accountability, allowing efficient progress tracking across the development cycle.
+
+These customizations ensure the iDiet system remains organized, traceable, and aligned with Agile best practices.
+
