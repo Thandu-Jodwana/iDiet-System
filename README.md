@@ -24,3 +24,4 @@ This system provides nutriotional knowledge to users.
 - [Kanban Explanation](kanban_explanation.md)
 - [Reflection](reflection.md)
 
+ ![Image Alt](https://github.com/Thandu-Jodwana/iDiet-System/blob/dcf1bae3f34f42bffaad665552d2be23575b28b3/Screenshot%202025-03-30%20231521.png)
