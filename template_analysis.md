@@ -8,7 +8,7 @@
 |------------------------|----------|------|------|
 | **Basic Kanban**       | To-do, In-progress, Done columns | It's fairly simple and easy to use,and has a Simple drag-and-drop functionality| Lacks automation features, and it also has no milestone tracking |
 | **Automated Kanban**   | Includes automation for task progression | Its automation capabilities reduces manual work, Improves workflow efficiency, and it helps enforce Agile practices | It can be quite complex for small teams, and it had limited customization |
-| **Team Planning**      | Supports milestone tracking and backlog prioritization | It is best suitable for Agile development. It also has advanced reporting and analytics | It can be too complex for beginners and the innitial set up can be time consumunig. |
+| **Team Planning**      | Supports milestone tracking and backlog prioritization | It is best suitable for Agile development. It also has advanced reporting and analytics. It improves project traceability and collaboration | It can be too complex for beginners and the innitial set up can be time consumunig. |
 
 ### Chosen Template: **Team Planning**
 **Justification:** The Team Planning template best suits the iDiet project as it supports backlog organization, sprint planning, and milestone tracking. 
