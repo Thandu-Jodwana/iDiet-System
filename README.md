@@ -20,6 +20,6 @@ This system provides nutriotional knowledge to users.
 - [REFLECTION&DOCUMENTATION](REFLECTION&DOCUMEMTATION.md)
 
 ## 📄 GitHub Project Templates and Kanban Board Implementation:
-- [template_analysis](template_analysis.md)
+- [Template Analysis](template_analysis.md)
 - [Kanban Explanation](kanban_explanation.md)
 - [Reflection](reflection.md)
