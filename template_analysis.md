@@ -6,9 +6,9 @@
 
 | Template Name          | Features | Pros | Cons |
 |------------------------|----------|------|------|
-| **Basic Kanban**       | To-do, In-progress, Done columns | Simple and easy to use | Lacks automation features |
-| **Automated Kanban**   | Includes automation for task progression | Reduces manual work | Might be complex for small teams |
-| **Team Planning**      | Supports milestone tracking and backlog prioritization | Best for Agile development | Can be overwhelming for beginners |
+| **Basic Kanban**       | To-do, In-progress, Done columns | It's fairly simple and easy to use | Lacks automation features |
+| **Automated Kanban**   | Includes automation for task progression | Its automation capabilities reduces manual work | It can be quite complex for small teams |
+| **Team Planning**      | Supports milestone tracking and backlog prioritization | It is best suitable for Agile development | Can be overwhelming for beginners |
 
 ### Chosen Template: **Team Planning**
 **Justification:** The Team Planning template best suits the iDiet project as it supports backlog organization, sprint planning, and milestone tracking. 
