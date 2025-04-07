@@ -39,3 +39,9 @@ This system provides nutriotional knowledge to users.
 
 These customizations ensure the iDiet system remains organized, traceable, and aligned with Agile best practices.
 
+
+
+## 📄 Object State and Activity Workflow Modeling Modelling:
+- [Object&Activity_reflection](object&activity_reflection.md)
+- [Activity-Workflow Modeling](Activity-WorkflowModeling.md)
+- [Object-State Modeling](Object-StateModeling.md)
