@@ -1,1 +1,8 @@
-reflection part...
+
+# Reflection
+One of the main challenges I faced during this assignment was determining the appropriate level of granularity for states and actions in both state and activity diagrams. Maintaining a balance between including enough detail to be meaningful and maintaining readability was tricky. Overall detailed diagrams became cluttered, making them hard to follow, while too little detail risked oversimplifying complex behaviors. For example, modeling the "Meal Plan" object required careful consideration to avoid listing every possible minor change, instead focusing on significant state transitions like “Drafted,” “Submitted,” or “Expired. There were times where my code couldn't run and it became frustrating.”
+
+Another challenge involved aligning the diagrams with Agile user stories developed earlier. While user stories tend to describe features from a high-level user perspective, state and activity diagrams required thinking from a more technical, system-level viewpoint. This required interpreting user goals into backend behaviors and ensuring that the diagrams reflected the system logic needed to fulfill each story without straying from the core user intent.
+
+Comparing state diagrams and activity diagrams highlighted their complementary purposes. State diagrams helped us understand how individual objects (like a user account or order) behave over time in response to events, giving insight into lifecycle management. Activity diagrams, on the other hand, were essential for capturing the flow of processes involving multiple roles and decision points. While state diagrams show “what changes,” activity diagrams explain “how things happen,” making them both essential tools in translating functional requirements into a working system design.
+despite all, system development can be tricky.
