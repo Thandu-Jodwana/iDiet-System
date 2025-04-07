@@ -20,7 +20,7 @@ stateDiagram-v2
     Active --> Deleted: User Deletes Account
 ```
 **Explanation:**
-The User Account transitions from an Inactive state upon registration. If a violation is detected, the account moves to Suspended, which can be reactivated upon a successful appeal. Users can also delete their accounts, leading to the Deleted state.
+The User Account transitions from an Inactive state upon registration. If a violation is detected(any suspicious event), the account moves to Suspended, which can be reactivated upon a successful appeal. Users can also deactivate their accounts, leading to the Deleted state.
 
 ## 2. Meal Plan State Diagram
 ```mermaid
@@ -32,7 +32,7 @@ stateDiagram-v2
     Approved --> Archived: Plan Expired
 ```
 **Explanation:**
-Meal plans start in the Draft state and are Submitted when finalized by the user. An admin reviews the plan, either Approving or Rejecting it. Once an approved plan expires, it moves to Archived status.
+Meal plans start in the Draft state and are Submitted when finalized by the user. A system admin reviews the plan, either Approving or Rejecting it. Once an approved meal plan expires, it moves to Archived status.
 
 ## 3. Order State Diagram
 ```mermaid
@@ -55,7 +55,7 @@ stateDiagram-v2
     Active --> Canceled: User Cancels Subscription
 ```
 **Explanation:**
-Subscriptions are Inactive until a user subscribes, moving them to Active. If the subscription period ends, it transitions to Expired. If the user manually cancels, the subscription moves to Canceled.
+All Subscriptions remain Inactive until a user subscribes, moving them to Active. If the subscription period ends, it transitions to Expired. If the user manually cancels, the subscription moves to Canceled.
 
 ## 5. Recipe State Diagram
 ```mermaid
