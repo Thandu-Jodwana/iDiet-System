@@ -46,3 +46,8 @@ These customizations ensure the iDiet system remains organized, traceable, and a
 - [Activity-Workflow Modeling](Activity-WorkflowModeling.md)
 - [Object-State Modeling](Object-StateModeling.md)
 - [Traceability](Traceability.md)
+
+## 📄 Class Diagram and Domain Modelling:
+- [DomainModelling](domainmodelling.md)
+- [ClassDiagram](classdiagram.md)
+- [ClassD & DomainM Reflection](classd&domainMreflection.md)
