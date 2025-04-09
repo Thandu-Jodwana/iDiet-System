@@ -48,6 +48,6 @@ These customizations ensure the iDiet system remains organized, traceable, and a
 - [Traceability](Traceability.md)
 
 ## 📄 Class Diagram and Domain Modelling:
-- [DomainModelling](domainmodelling.md)
+- [DomainModel](domainmodel.md)
 - [ClassDiagram](classdiagram.md)
 - [ClassD & DomainM Reflection](classd&domainMreflection.md)
