@@ -98,4 +98,3 @@ This class diagram captures the core structure of the iDiet system and its relat
 
 Each class includes both attributes and key behavioral methods, aligning with domain logic and Agile requirements.
 
-Let me know when you’d like to proceed to Task 3: System Sequence Diagram (SSD).
