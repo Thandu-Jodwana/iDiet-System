@@ -51,3 +51,8 @@ These customizations ensure the iDiet system remains organized, traceable, and a
 - [DomainModel](domainmodel.md)
 - [ClassDiagram](classdiagram.md)
 - [ClassD & DomainM Reflection](classd&domainMreflection.md)
+
+## 📄 Service Layer and REST APIImplementation:
+- [Service Layer Implementation](src)
+- [API_Documentation](API_Documentation.md)
+- [GitHub_Updates](GitHub_Updates.md)
