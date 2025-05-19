@@ -14,7 +14,7 @@ Thank you for your interest in contributing to **iDiet**, a dietary management s
 * Maven 3.8+
 * Git & GitHub
 * IDE: IntelliJ IDEA, Eclipse, or VS Code
-
+ 
 ### Installation Instructions
 
 ```bash
